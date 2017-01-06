@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-spring
+- name: pivo-master-sonal
   memory: 512M
   instances: 1
   random-route: true
